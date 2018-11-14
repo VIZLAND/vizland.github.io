@@ -9,6 +9,6 @@ This repository documents the development and experimentation process behind the
 
 VIZLAND v.1: Mindmap to run string queries on the visualization types, including their titles and descriptions.  The map is simply a rough makeup of the original information source from the Data Visualisation Catalogue by Severino Ribecca. [About](http://www.datavizcatalogue.com/about.html)
 
-[Download v.1](v1/vizland-v1.smmx) Requires free [SimpleMind](https://simplemind.eu/download/free-edition/) download. (select "SimpleMind - Free Edition")
+[Download v.1](https://github.com/VIZLAND/vizland.github.io/raw/master/v1/vizland-v1.smmx) Requires free [SimpleMind](https://simplemind.eu/download/free-edition/) download. (select "SimpleMind - Free Edition")
 
 <hr />
