@@ -1,8 +1,8 @@
 #    VIZLAND
 
-The visualization project VIZLAND (VisualIZation LANDscape) created by Marcus A. Gordon, allows the exploration of 60 common data visualization types, their descriptions, and examples of use.  The project will manifest into a web prototype that is to act as a learning tool and satisfy the need to query visualization types, more specifically, their functions, interactively.
+The visualization project VIZLAND (VisualIZation LANDscape) created by [Marcus A. Gordon](http://marcusgordon.com), allows for the exploration of 60+ common data visualization types, their descriptions, and examples of use.  The project will manifest into a web prototype that will to act as a learning tool and satisfy the need to query visualization types, more specifically, their functions, interactively.
 
-This repository documents the development and experimentation process behind the prototype.  To be a learning tool in the OCAD University Visual Analytics Lab, it will experience further experimentation by graduate students and researchers in our quest for knowledge and analysis of data visualization methods.
+This repository documents the development and experimentation process behind the prototype.  To be a learning tool in the OCAD University [Visual Analytics Lab](https://www2.ocadu.ca/research/val/home?_ga=2.16866553.1111990923.1541971890-1106519291.1536774311), it will experience further experimentation by graduate students and researchers in our quest for knowledge and analysis of data visualization methods.
 
 
 <hr />
